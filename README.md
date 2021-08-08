@@ -1,16 +1,17 @@
-### Hi there 👋
+# Sławek Chabowski
 
-<!--
-**SlawomirChabowski/SlawomirChabowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Just a web developer
 
-Here are some ideas to get you started:
+Currently working as a frontend VueJS developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My favourite technologies:
+
+[![Javascript](./resources/images/javascript.png)](https://www.javascript.com/ "Javascript")
+[![Typescript](./resources/images/typescript.png)](https://www.typescriptlang.org/ "Typescript")
+[![VueJS](./resources/images/vuejs.png)](https://vuejs.org/ "VueJS")
+[![Vuetify](./resources/images/vuetify.png)](https://vuetifyjs.com, "Vuetify")
+[![Sass](./resources/images/sass.png)](https://sass-lang.com/ "Sass (SCSS)")
+
+---
+
+Also used to work with: PHP, C#, Java and Ruby
